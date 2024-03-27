@@ -59,5 +59,5 @@ Selecionei a opção Browse for a file  e retonou resutado abaixo.
 
 ## Resumindo.
 
-Ao Final do Laboratório, consegui corrigir erros, pois tinha cancelado a conta, e não estava permitindo concluir, ao pesquisar descobri que tinha que aguarda a atualização da reativação, e quando fui tentar novamente deu tudo certo!
+Ao Final do Laboratório, consegui corrigir erros, pois tinha cancelado a conta, e não estava permitindo concluir, ao pesquisar descobri que tinha que aguardar a atualização da reativação, e quando fui tentar novamente deu tudo certo!
 apredizado muito bom e didatico tanto da [@valeriafarias](https://github.com/valeriafarias), e da documentação.
